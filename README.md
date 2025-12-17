@@ -4,24 +4,10 @@ Thank you for visiting my profile !
 
 Contact: shun.yoshida.w@gmail.com
 
-## Occupation
-- 🧑‍💻 Software Engineer ([Timeleap Inc.](https://timeleap.co.jp))
+📚 [/hobbies](https://github.com/sy-st-jp/sy-st-jp/tree/main/hobbies)
 
-## Skills
-- 🌐 Web Frontend Development (e.g., React, Next.js, Three.js)
-- 🕶️ XR App Development (e.g., Unity)
-- 📱 Mobile App Development (e.g., Expo)
-- 🕺 Wotagei (e.g., Thundersnake, Amaterasu) ([YouTube](https://youtu.be/Aw2AImGeqhA))
+🕶️ [/interests](https://github.com/sy-st-jp/sy-st-jp/tree/main/interests)
 
-## Interests
-- 🕶️ Spatial Computing
-- 🤖 AI
-- 💥 VFX
-- 💡 Electronics
+💪 [/skills](https://github.com/sy-st-jp/sy-st-jp/tree/main/skills)
 
-## Hobbies
-- 📚 Browsing bookstores
-- ☕️ Visiting cafes
-- 🔍 Following tech news
-- 🚶‍♂️ Walking
-- 🤔 Thinking
+🚶‍♂️ [/timeline](https://github.com/sy-st-jp/sy-st-jp/tree/main/timeline)
