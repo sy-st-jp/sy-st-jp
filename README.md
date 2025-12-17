@@ -2,7 +2,7 @@
 
 Thank you for visiting my profile !
 
-2025/12/18: My current interests are spatial computing and AI. I can't wait to get my hands on an Android XR device 🕶️
+2025/12/18: My current interests are **Spatial Computing** 😎 and **AI** 🤖. I can't wait to get my hands on an **Android XR** device.
 
 Contact: shun.yoshida.w@gmail.com
 
