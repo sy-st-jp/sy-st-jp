@@ -15,3 +15,5 @@ Contact: shun.yoshida.w@gmail.com
 💪 [/skills](https://github.com/sy-st-jp/sy-st-jp/tree/main/skills) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/skills/en.md))
 
 📝 [/certifications](https://github.com/sy-st-jp/sy-st-jp/tree/main/certifications) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/certifications/en.md))
+
+🕺 [/wotagei](https://github.com/sy-st-jp/sy-st-jp/tree/main/wotagei)
