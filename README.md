@@ -6,7 +6,7 @@ Thank you for visiting my profile !
 
 Contact: shun.yoshida.w@gmail.com
 
-🚶‍♂️ [/timeline](https://github.com/sy-st-jp/sy-st-jp/tree/main/timeline)
+🚶‍♂️ [/timeline](https://github.com/sy-st-jp/sy-st-jp/tree/main/timeline) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/timeline/en.md))
 
 📚 [/hobbies](https://github.com/sy-st-jp/sy-st-jp/tree/main/hobbies) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/hobbies/en.md))
 
@@ -16,4 +16,4 @@ Contact: shun.yoshida.w@gmail.com
 
 📝 [/certifications](https://github.com/sy-st-jp/sy-st-jp/tree/main/certifications) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/certifications/en.md))
 
-🕺 [/wotagei](https://github.com/sy-st-jp/sy-st-jp/tree/main/wotagei)
+🕺 [/wotagei](https://github.com/sy-st-jp/sy-st-jp/tree/main/wotagei) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/wotagei/en.md))
