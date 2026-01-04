@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Shun Yoshida.
 
-```
-> I'm a software engineer with primary experience in Web Frontend and XR 😌 My hobbies include visiting bookstores and coffee shops, and keeping up with new technologies 📚 ☕️ 🔍 Lately, I've been interested in generative AI and spatial computing 🤖 😎
-```
+I'm a software engineer with primary experience in **Web Frontend** and **XR** 😌 My hobbies include visiting bookstores and coffee shops, and keeping up with new technologies 📚 ☕️ 🔍 Lately, I've been interested in **Generative AI** and **Spatial Computing** 🤖 😎
 
 2026/1/4: Happy New Year! 🌅
 
@@ -15,3 +13,4 @@
 ---
 
 shun.yoshida.w@gmail.com
+
