@@ -1,13 +1,17 @@
 # 👋 Hello, I'm Shun Yoshida.
 
-Thank you for visiting my profile !
+```
+> I'm a software engineer with primary experience in Web Frontend and XR 😌 My hobbies include visiting bookstores and coffee shops, and keeping up with new technologies 📚 ☕️ 🔍 Lately, I've been interested in generative AI and spatial computing 🤖 😎
+```
 
-2025/12/18: My current interests are **Spatial Computing** 😎 and **AI** 🤖. I can't wait to get my hands on an **Android XR** device.
-
-Contact: shun.yoshida.w@gmail.com
+2026/1/4: Happy New Year! 🌅
 
 🚶‍♂️ [/timeline](https://github.com/sy-st-jp/sy-st-jp/tree/main/timeline) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/timeline/en.md))
 
+🕺 [/wotagei](https://github.com/sy-st-jp/sy-st-jp/tree/main/wotagei) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/wotagei/en.md))
+
 📝 [/certifications](https://github.com/sy-st-jp/sy-st-jp/tree/main/certifications) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/certifications/en.md))
 
-🕺 [/wotagei](https://github.com/sy-st-jp/sy-st-jp/tree/main/wotagei) ([en](https://github.com/sy-st-jp/sy-st-jp/blob/main/wotagei/en.md))
+---
+
+shun.yoshida.w@gmail.com
